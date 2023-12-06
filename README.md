@@ -23,8 +23,8 @@ other three are distinct modeling approaches were implemented:
 ## Usage Instructions
 
 1. Download the Analytical Report pdf in main file: Begin by downloading the full report from the Main directory to understand the project's scope and methodology.
-2. Model Exploration: Proceed to download the individual branches corresponding to the different models.
-3. Running the Models / Viewing Results: You can choose to either run the Python scripts within each branch to generate fresh output or view the pre-generated charts included alongside for immediate analysis.
+2. Model Exploration: Proceed to download the individual files corresponding to the different models.
+3. Running the Models / Viewing Results: You can choose to either run the Python scripts within each file to generate fresh output or view the pre-generated charts included alongside for immediate analysis.
 
 ## lastly
 
